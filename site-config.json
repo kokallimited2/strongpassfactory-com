@@ -3,11 +3,11 @@
   "name": "StrongPassFactory",
   "domain": "strongpassfactory.com",
   "url": "https://strongpassfactory.com",
-  "emoji": "🏭",
+  "emoji": "\ud83c\udfed",
   "brand": "StrongPassFactory",
-  "angle": "Industrial bulk password generation. Factory theme — efficiency, scale, mass production.",
+  "angle": "Industrial bulk password generation. Factory theme \u2014 efficiency, scale, mass production.",
   "primaryColor": "orange",
-  "description": "Bulk password factory — generate hundreds of strong passwords instantly. For developers, sysadmins and teams.",
+  "description": "Bulk password factory \u2014 generate hundreds of strong passwords instantly. For developers, sysadmins and teams.",
   "shortDescription": "Bulk Password Generator",
   "topic": "bulk password generation, developer tools, sysadmin",
   "tags": [
@@ -24,5 +24,6 @@
   "posts": [],
   "defaultKeywords": "bulk password generation, developer tools, sysadmin",
   "blogDescription": "Guides, tips and news about bulk password generation, developer tools, sysadmin.",
-  "generatedAt": "2026-04-26"
+  "generatedAt": "2026-04-26",
+  "siteName": "StrongPassFactory"
 }
